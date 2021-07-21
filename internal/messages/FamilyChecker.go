@@ -4,7 +4,14 @@ import (
 	"strings"
 )
 
-var FamilyDefinitions = []string{"familie", "family", "la familia"}
+var FamilyDefinitions = []string{
+	"familie",
+	"family",
+	"la familia",
+	"fam",
+	"alabama",
+	"sweet home",
+}
 
 func FamilyChecker(msg string) bool {
 	lowerCase := strings.ToLower(msg)
