@@ -3,7 +3,7 @@
 <hr>
 <strong>Nothing over family!</strong><br><br>
 <img src="https://img.shields.io/github/workflow/status/mathisburger/dom-toretto/Docker?style=for-the-badge">
-<img src="https://img.shields.io/github/license/mathisburger/dom-toretto?style=for-the-badge">
+<img src="https://img.shields.io/github/license/mathisburger/dom-toretto?style=for-the-badge"> 
 <img src="https://img.shields.io/github/go-mod/go-version/mathisburger/dom-toretto?style=for-the-badge">
 </div>
 <hr>
