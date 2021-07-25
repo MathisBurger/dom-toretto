@@ -11,6 +11,14 @@ var FamilyDefinitions = []string{
 	"fam",
 	"alabama",
 	"sweet home",
+	"stepsis",
+	"stepsister",
+	"step sister",
+	"stepbro",
+	"stepbrother",
+	"step brother",
+	"step bro",
+	"step sis",
 }
 
 func FamilyChecker(msg string) bool {

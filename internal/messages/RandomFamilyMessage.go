@@ -8,7 +8,7 @@ import (
 var FamilyMessages = []string{
 	"Family is very important!",
 	"Nothing over family!",
-	"Did you said family?",
+	"Did you say family?",
 	"I would kill for my family!",
 	"I have no friends, I have family!",
 }
